@@ -5,7 +5,7 @@
 ## Description
 
 _Very First basic app in swift! Learning in Udemy_
-![Screenshot](./img/pic1.png =60x20)
+![Screenshot](/img/pic1.png =60x20)
 
 ## Setup/Installation Requirements
 * _Open app in xcode  can be open in xcode 9._
