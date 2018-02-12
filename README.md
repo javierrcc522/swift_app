@@ -5,7 +5,7 @@
 ## Description
 
 _Very First basic app in swift! Learning in Udemy_
-![Screenshot](/img/pic1.png =60x20)
+![Screenshot](/img/pic1.png)
 
 ## Setup/Installation Requirements
 * _Open app in xcode  can be open in xcode 9._
@@ -18,7 +18,6 @@ _Very First basic app in swift! Learning in Udemy_
 _If you have any comments or suggestions please make a contribution to my repository_
 
 ### License
-
 *This project is licensed under the MIT license*
 
 Copyright (c) 2017 **_Javier Jimenez_**
